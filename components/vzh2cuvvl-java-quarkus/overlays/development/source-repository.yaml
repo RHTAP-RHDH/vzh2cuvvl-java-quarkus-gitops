@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vzh2cuvvl-java-quarkus-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/vzh2cuvvl-java-quarkus
